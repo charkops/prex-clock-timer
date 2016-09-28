@@ -1,6 +1,6 @@
 # prex-clock-timer
 
-Author : Kopsacheilis Charalampos
+Author : Kopsacheilis Charalampos\n
 Date   : 28 / 9 / 2016
 
 This is a Real time clock-timer implemented on the Prex RTOS.
