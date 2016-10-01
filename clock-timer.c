@@ -177,8 +177,7 @@ int main(void){
 		/* Undoing changemode(1) */
 		changemode(0);
 		
-		printf("\nGood job!\n");
-		printf("input = %c\n", input);
+		printf("\nProgram has exited sucessfully!\n");
 		
 		return 0;
 }
