@@ -186,7 +186,6 @@ int main(void){
 void printTime(void){
 	int hours,minutes,seconds;
 	time_t Unix_time = get_time();
-	time_t zero_time;
 	
 	if (SEC_ZERO){
 		last_sreset = get_time();
